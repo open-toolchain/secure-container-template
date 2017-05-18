@@ -1,0 +1,2 @@
+---
+template.gettingStarted: " **ツールチェーンの準備ができました。**\n**クイック・スタート:** Git リポジトリーに対する変更をコミットし、新しいビルドおよびデプロイメントをトリガーして、コンテナーにセキュリティー上の脆弱性がないかをチェックしてください。ステップバイステップの説明については、このツールチェーンの[チュートリアル](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_secure_container)を参照してください。"
