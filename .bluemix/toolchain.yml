@@ -20,7 +20,7 @@ toolchain:
   name: 'secure-container-toolchain-{{timestamp}}'
   template:
     getting_started:
-      $ref: "#/messages/template.gettingStarted" 
+      $ref: locales_getting_started.yml 
 services:
   hello-world-repo:
     service_id: githubpublic

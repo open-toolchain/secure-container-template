@@ -1,0 +1,2 @@
+---
+template.gettingStarted: " **Ihre Toolchain steht bereit!**\n**Schnelleinstieg:** Schreiben Sie eine Änderung im Git-Repository fest, um einen neuen Build und eine neue Bereitstellung auszulösen sowie Risiken für die Containersicherheit zu überprüfen. Schrittweise Anleitungen bietet das [Lernprogramm](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_secure_container) für diese Toolchain. "
