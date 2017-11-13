@@ -312,8 +312,8 @@
 <text id="headerSVG.repository" transform="matrix(0.9271 0 0 1 100.6055 130.2944)" class="st22 st23">REPOSITORY</text>
 <text id="headerSVG.gitHub2" transform="matrix(0.9271 0 0 1 115.9028 143.4946)" class="st22 st23">GitHub</text>
 <text id="headerSVG.pipeline" transform="matrix(0.9271 0 0 1 199.5088 130.2944)" class="st22 st23">PIPELINE</text>
-<text id="headerSVG.bluemix" transform="matrix(0.9271 0 0 1 287.293 130.2944)" class="st22 st23">BLUEMIX</text>
-<text id="headerSVG.containers" transform="matrix(0.9271 0 0 1 284.293 143.4946)" class="st22 st23">Containers</text>
+<text id="headerSVG.ibmCloud" transform="matrix(0.9271 0 0 1 287.293 130.2944)" class="st22 st23">IBM Cloud</text>
+<text id="headerSVG.containers" transform="matrix(0.9271 0 0 1 285.293 143.4946)" class="st22 st23">Containers</text>
 <text id="headerSVG.webIde" transform="matrix(0.9271 0 0 1 108.7646 242.2744)" class="st22 st23">WEB IDE</text>
 <circle class="st1" cx="308.6" cy="87.6" r="26.5"/>
 <g>
